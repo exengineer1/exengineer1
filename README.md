@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Asif</h1>
-<h3 align="center">A passionate Cyber Security Engineer and Researcher from Bangladesh ![image](https://github.com/exengineer1/exengineer1/assets/26750466/56f8c797-3ed6-44da-89d8-6a0dab2f38b0)
- </h3>
+<h3 align="center">A passionate Cyber Security Engineer and Researcher from Bangladesh 🇧🇩 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=exengineer1&label=Profile%20views&color=0e75b6&style=flat" alt="exengineer1" /> </p>
 
