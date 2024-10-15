@@ -6,7 +6,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=exengineer1&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
-- 🔭 I’m currently working at [DocDoc Pte Ltd](https://docdoc.com/)
 
 - 👨‍💻 To know about me visit [https://asibulhasan.me/](https://asibulhasan.me/)
 
